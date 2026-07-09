@@ -18,11 +18,11 @@ Développement d'un modèle de scoring de **probabilité de défaut (PD)** sur l
 
 Un KS > 0,50 indique un pouvoir discriminant élevé entre bons et mauvais payeurs.
 
-![Courbes ROC](./images/roc_comparison.png)
+![Courbes ROC](./roc_comparison.png)
 
 ## Facteurs de risque (SHAP)
 
-![SHAP summary](./images/shap_summary.png)
+![SHAP summary](./shap_summary.png)
 
 Les deux variables dominantes sont cohérentes avec la théorie du risque de crédit :
 - **`RevolvingUtilizationOfUnsecuredLines`** : un taux d'utilisation élevé du crédit renouvelable pousse fortement vers le défaut
