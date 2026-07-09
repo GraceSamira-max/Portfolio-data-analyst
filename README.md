@@ -1,6 +1,6 @@
-# Grace Samira Ngouana — Portfolio Data Analyst
+# Grace Samira Ngouana : Portfolio Data Analyst
 
-Étudiante en **Master 2 Data Analyst (MASERATI, UPEC)** — en recherche d'alternance pour septembre 2026 (3 jours entreprise / 2 jours université).
+Étudiante en **Master 2 Data Analyst (MASERATI, UPEC)**  en recherche d'alternance pour septembre 2026 (3 jours entreprise / 2 jours université).
 
 Spécialisée en **modélisation statistique, scoring de risque et visualisation de données**. Formation d'économiste appliquée : j'aime les résultats qui se défendent, pas seulement les modèles qui tournent.
 
@@ -23,7 +23,7 @@ Gestion du déséquilibre de classes (6,68 % de défauts), validation stratifié
 
 **Stack :** Python · Pandas · Scikit-learn · SHAP · Matplotlib
 
-### 2. [Dashboard Power BI — Performance commerciale](./dashboard-performance-commerciale)
+### 2. [Dashboard Power BI - Performance commerciale](./dashboard-performance-commerciale)
 
 Rapport interactif de 3 pages sur **9 994 transactions retail** : modèle en étoile (4 tables), 6 mesures DAX, slicers dynamiques région/segment/catégorie.
 
@@ -31,7 +31,7 @@ Résultats clés : écart de marge de **14,94 % (West) à 7,92 % (Central)**, so
 
 **Stack :** Power BI · DAX · Power Query
 
-### 3. Mémoire de Master — Disparités régionales des inégalités salariales F/H en France
+### 3. Mémoire de Master - Disparités régionales des inégalités salariales F/H en France
 
 Analyse microéconométrique sur l'**Enquête Emploi en Continu INSEE 2023-2024 (N = 46 494)** : OLS, effets fixes, correction du biais de sélection (Heckman deux étapes), décomposition Oaxaca-Blinder.
 
