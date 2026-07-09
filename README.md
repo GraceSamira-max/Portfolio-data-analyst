@@ -29,7 +29,7 @@ Rapport interactif de 3 pages sur **9 994 transactions retail** : modèle en ét
 
 Résultats clés : écart de marge de **14,94 % (West) à 7,92 % (Central)**, sous-catégories à profit négatif identifiées (Tables, Bookcases) — restitution orientée aide à la décision.
 
-**Stack :** Power BI · DAX · Power Query
+**Stack :** Power BI, DAX, Power Query
 
 ### 3. Mémoire de Master - Disparités régionales des inégalités salariales F/H en France
 
@@ -39,7 +39,7 @@ Résultat principal : pénalité salariale féminine de **−11,4 % (OLS), port�
 
 *Les données Progedo sont sous convention d'accès et ne peuvent pas être partagées ici.*
 
-**Stack :** R · fixest · oaxaca · ggplot2 · sf
+**Stack :** R ,fixest, oaxaca, ggplot2, sf
 
 ---
 
