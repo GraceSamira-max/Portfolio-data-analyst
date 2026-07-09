@@ -35,7 +35,7 @@ Résultats clés : écart de marge de **14,94 % (West) à 7,92 % (Central)**, so
 
 Analyse microéconométrique sur l'**Enquête Emploi en Continu INSEE 2023-2024 (N = 46 494)** : OLS, effets fixes, correction du biais de sélection (Heckman deux étapes), décomposition Oaxaca-Blinder.
 
-Résultat principal : pénalité salariale féminine de **−11,4 % (OLS), portée à −15,2 % après correction du biais de sélection**, avec une variation territoriale statistiquement validée.
+Résultat principal : pénalité salariale féminine de **−11,4 % (OLS), portée à −15,2 % après correction du biais de sélection**, avec une variation territoriale statistiquement validée. La pénalité salariale existe et diffère selon le type de territoire
 
 *Les données Progedo sont sous convention d'accès et ne peuvent pas être partagées ici.*
 
