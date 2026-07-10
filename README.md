@@ -10,7 +10,7 @@ Spécialisée en **modélisation statistique, scoring de risque et visualisation
 
 ## 🗂 Projets
 
-### 1. [Scoring crédit — Modélisation du risque de défaut](./scoring-credit)
+### 1. [Scoring crédit - Modélisation du risque de défaut](./scoring-credit)
 
 Prédiction de la probabilité de défaut sur **150 000 emprunteurs** (dataset Give Me Some Credit).
 
